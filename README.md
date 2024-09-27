@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
-    <img src="https://github.com/user-attachments/assets/e0c7b5b4-47a8-4c9e-8c07-15379f62d867" width="128px" height="128px" alt="HelloKittyByeBye">
+    <img src="https://github.com/user-attachments/assets/e0c7b5b4-47a8-4c9e-8c07-15379f62d867" width="128px" height="128px" alt="SalaDoCaralho">
   </a>
 </p>
 
